@@ -3,7 +3,7 @@
 ## Installing
 
 ```powershell
-$ npm install endo-google-cloud-platform
+$
 ```
 
 ### Usage
