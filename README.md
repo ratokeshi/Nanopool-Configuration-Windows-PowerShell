@@ -12,6 +12,18 @@ modify settings at top of script
 ./minerlaunch.ps1
 ```
 
+### Usage options
+You don't need to configure hostname because this picks up the local hostname.
+You can go to https://eth.nanopool.org/help#poolsettings to perform the install.
+1.  If you follow the steps at https://eth.nanopool.org/help#claymore you will get the Clymore miner started.
+2.  Instead of modifying the start.bat file you can run this powershell.
+3.  Modify the minerlaunch.ps1 using your favorite text editor.
+4.  You might modify your Group policy or local GPO to automatically run this minerlaunch.ps1
+
+### Future possibilities:
+1.  Convert to check for local or remote config if remote go to https://configmaker.com to get config options.
+2.  Create script config that creates config file or pulls it from https://configmaker.com
+
 
 ## Update Notes
 2017-12-03 21:18 - Cleaned up the script to make it easier to figure out what to customise and why.
@@ -24,7 +36,7 @@ modify settings at top of script
 
 The MIT License (MIT)
 
-Copyright 2016 Octoblu Inc.
+Copyright 2017 Tokeshi.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
