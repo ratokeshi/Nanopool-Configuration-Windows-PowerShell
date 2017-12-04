@@ -1,7 +1,7 @@
 # Nanopool-Configuration-Windows-PowerShell
 
 ## Installing
-
+Copy ps1 to local miner
 ```powershell
 $
 ```
