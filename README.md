@@ -14,7 +14,9 @@ modify settings at top of script
 
 
 ## Update Notes
+2017-12-03 21:18 - Cleaned up the script to make it easier to figure out what to customise and why.
 2017-12-03 18:55 - Created doc for updating running Nanopool
+
 
 
 
