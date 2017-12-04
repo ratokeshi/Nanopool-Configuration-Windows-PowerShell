@@ -20,7 +20,7 @@ $email = "me@gmail.com"
 # What is the path to your Claymore folder?
 $minerpath = "C:\Users\Administrator\Downloads\Claymore.s.Dual.Ethereum.Decred_Siacoin_Lbry_Pascal.AMD.NVIDIA.GPU.Miner.v10.0"
 #
-# Only uncomment (remove leading hash) from one of the following lines.
+# Only uncomment (remove leading hash) from one of the following lines. Make sure only one of the pool lines is uncommented.
 $pool = "eth-us-west1.nanopool.org:9999"
 #$pool ="eth-eu1.nanopool.org:9999"
 #$pool ="eth-eu2.nanopool.org:9999"
